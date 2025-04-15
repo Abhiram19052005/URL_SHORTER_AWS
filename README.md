@@ -26,15 +26,10 @@ API Gateway handles the routes and connects the frontend to the backend
 The app supports CORS and is fully serverless — no need to manage any servers
 
 ![work flow ](https://github.com/user-attachments/assets/f5458a14-9db5-4547-bc3b-36b9e3d6ad2f)
-
 # Screenshots
-
-![image](https://github.com/user-attachments/assets/5d6c6b49-6151-420c-82fd-f07bac8dbdd8) ![image](https://github.com/user-attachments/assets/d295e880-d9bb-48bd-b6f1-d87643458e18)
-![image](https://github.com/user-attachments/assets/f381ac2d-a1e3-408a-8bf9-c826a00b5579) ![image](https://github.com/user-attachments/assets/24d5b376-a7c6-4ea2-9778-812a89976d71)
-
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/5d6c6b49-6151-420c-82fd-f07bac8dbdd8" width="100%"></td> <td><img src="https://github.com/user-attachments/assets/d295e880-d9bb-48bd-b6f1-d87643458e18" width="100%"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/f381ac2d-a1e3-408a-8bf9-c826a00b5579" width="100%"></td> <td><img src="https://github.com/user-attachments/assets/24d5b376-a7c6-4ea2-9778-812a89976d71" width="100%"></td> </tr> </table>
 # Output
-![image](https://github.com/user-attachments/assets/81b9271d-637f-41a9-9ce3-5e9d2b5911b9) ![image](https://github.com/user-attachments/assets/79f72fbb-aabf-4ab2-a78d-395235b0bdaf)
-
+<table> <tr> <td><img src="https://github.com/user-attachments/assets/81b9271d-637f-41a9-9ce3-5e9d2b5911b9" width="100%"></td> <td><img src="https://github.com/user-attachments/assets/79f72fbb-aabf-4ab2-a78d-395235b0bdaf" width="100%"></td> </tr> </table>
 # Conclusion
 This project shows how to build a simple and scalable URL shortener using AWS serverless services. It eliminates the need for managing servers and ensures high availability with minimal cost.
 
