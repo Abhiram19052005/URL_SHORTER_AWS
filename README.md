@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb301bf2-6826-4197-8c80-c43d7a13279a)# URL_SHORTER_AWS
+# URL_SHORTER_AWS
 
 URL SHORTER : https://url-shorterner.netlify.app/
 
